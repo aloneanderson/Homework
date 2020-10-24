@@ -1,1 +1,5 @@
-#just test file
+def summ(number):
+    return 'bulochka' * number
+
+
+print(summ(3532))
