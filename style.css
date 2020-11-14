@@ -1,0 +1,19 @@
+h1 {
+    font-size: 24px;
+    color: red;
+    padding: 10px 0px 100px 0px;
+}
+#top{
+    color: green;
+    font-weight:bold;
+}
+h2 {
+    color: aqua;
+}
+h3 {
+    color: crimson;
+}
+.back {
+    
+    background-color: chartreuse;
+}
